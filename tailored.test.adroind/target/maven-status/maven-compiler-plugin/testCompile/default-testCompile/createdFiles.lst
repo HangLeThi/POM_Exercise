@@ -1,0 +1,5 @@
+demo\tailored\auto\steps\DefinitionSteps.class
+demo\tailored\auto\DefinitionTestSuite.class
+demo\tailored\auto\pages\DictionaryPage$1.class
+demo\tailored\auto\pages\DictionaryPage.class
+demo\tailored\auto\steps\serenity\EndUserSteps.class
